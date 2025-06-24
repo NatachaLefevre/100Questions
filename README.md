@@ -8,6 +8,5 @@ Le ton du livre est léger et humoristique, ce qui ressort de la mise en page. C
 
 ![100questions-couverture](https://github.com/user-attachments/assets/b4b752e4-f2d3-45e8-9ae0-caea1818925b)
 
-![100-Questions_livre_final_150x210mm_146-147](https://github.com/user-attachments/assets/b25efeec-bbcd-4be5-9516-bd33fbb0806d)
+![100questions-pageinter](https://github.com/user-attachments/assets/aa1e8148-3421-42a4-b6b1-1d0dbb69395b)
 
-![100-Questions_livre_final_172-173](https://github.com/user-attachments/assets/6513cbed-ae08-447d-832c-718c890afb30)
